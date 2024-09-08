@@ -69,7 +69,7 @@
     font-size: 17px;
 }
 
-main.card:hover{
+.main .card:hover{
     background-color: #dfe4ea;
 }
 
